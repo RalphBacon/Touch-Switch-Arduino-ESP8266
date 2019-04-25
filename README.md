@@ -1,9 +1,16 @@
 # Touch Switch for Arduino and ESP8266
-How to implement a touch switch on the Arduino or ESP8266 (or any µController)
+How to implement a reliable touch switch on the Arduino or ESP8266 (or any µController)
 
 ### See video https://www.youtube.com/ralphbacon video #143
 #### (Direct link to video: https://youtu.be/jhtY_Hn5jBM)
 
+### LCSC Electronics - Shop Online: https://lcsc.com
+```
+Founded in 2011, after 6-year striving and accumulation of experience, LCSC has become the fastest developing
+online store of electronic components in China, serving 530,000 customers and processing around 2,000 online
+orders per day by 2017. LCSC has a strong commitment to offering a wide selection of genuine, high-quality
+electronic components at best price.
+```
 ### LCSC Electronics - Shop Online: https://lcsc.com
 
 As part of my Home Alone project, I need a touch switch. Here are two ways of doing that.
