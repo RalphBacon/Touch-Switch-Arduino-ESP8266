@@ -3,7 +3,7 @@ How to implement a reliable touch switch on the Arduino or ESP8266 (or any µCon
 
 ### See video https://www.youtube.com/ralphbacon video #143
 #### (Direct link to video: https://youtu.be/jhtY_Hn5jBM)
-
+***
 ### LCSC Electronics - Shop Online: https://lcsc.com
 ```
 Founded in 2011, after 6-year striving and accumulation of experience, LCSC has become the fastest developing
@@ -12,7 +12,7 @@ orders per day by 2017. LCSC has a strong commitment to offering a wide selectio
 electronic components at best price.
 ```
 ### LCSC Electronics - Shop Online: https://lcsc.com
-
+***
 As part of my Home Alone project, I need a touch switch. Here are two ways of doing that.
 
 I've implemented a capacitive touch sensor three times in my Arduino-based projects, and they work flawlessly. And, considering you only need one wire and have no switch bounce, they are infinitely preferable to standard, mechanical, push-button switches, IMHO.
